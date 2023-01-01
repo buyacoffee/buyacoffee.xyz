@@ -21,6 +21,14 @@ body {
 .tree .links a {
   margin: 0.75em auto;
 }
+.tree .number {
+  padding-top: 10px;
+  padding-bottom: 10px;
+  border-radius: 2px;
+  background: rgba(0, 0, 0, 0.2);
+  text-align: center;
+  margin: 0.75em auto;
+}
 .tree .footer {
   margin: 2rem;
 }
