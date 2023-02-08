@@ -1,7 +1,7 @@
 ---	
 title: Bold Outlook	
 layout: post	
-bg-img: https://cdn.myportfolio.com/deb4db81-fb3d-4b20-b68d-ab14e5e64191/d6bc4edf-9119-4fd1-9fd6-49ad934b83cb_rwc_0x0x1920x1080x4096.png?h=7966baa390737f1725740072180c114d
+bg-img: https://images.squarespace-cdn.com/content/v1/63e41bb21b18186f2d0ae316/4b4a1fb5-ce74-4501-9d2b-7a97ad83f3df/trianglebg.png?format=original
 profile-pic: https://avatars.githubusercontent.com/u/4009266?v=4
 ---	
 
